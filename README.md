@@ -72,3 +72,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # AI-Interview-Question-Generator
 >>>>>>> 81484f389d913bb734485e69f45a99c4d2477d25
+>>>>>
+### 🚀 How to Run the Project
+
+### ▶ Backend
+```bash
+cd server
+npm install
+npm start
+
+## Frontend 
+#cd client
+npm install
+npm start
